@@ -8,6 +8,7 @@ Szybkie tworzenie i dodawanie komponentów za pomocą wiersza poleceń
 Sposób budowania strony za pomocą szablonów.
 
 Rozwiązanie problemów:
+
 -manipulacja DOMem-pozwala na określanie warunków wyświetlania
 
 -framework rozszerza możliwości tradycyjnego HTML-a do lepszej obslugi dynamicznych treści. 
