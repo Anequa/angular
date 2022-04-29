@@ -9,7 +9,10 @@ Sposób budowania strony za pomocą szablonów.
 
 Rozwiązanie problemów:
 -manipulacja DOMem-pozwala na określanie warunków wyświetlania
+
 -framework rozszerza możliwości tradycyjnego HTML-a do lepszej obslugi dynamicznych treści. 
+
 -ułatwia testowanie
+
 -umożliwia automatyczną synchronizację pomiędzy modelem i widokiem
 
